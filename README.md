@@ -1,10 +1,10 @@
 #--------------------------------------------------Do Sistema---------------------------------------------------------
 
 #RF:
-#- O sistema deve contar com sistema de autenticação por email e senha;
-#- Usuário deve poder listar, adicionar, editar e excluir suas atividades;
-#- Cada atividade poderá ser marcada como concluída ou não concluída;
-#- Painel de atividades deve possuir campo de busca por atividades;
+#- O sistema deve contar com sistema de autenticação por email e senha;⚠
+#- Usuário deve poder listar, adicionar, editar e excluir suas atividades;✅
+#- Cada atividade poderá ser marcada como concluída ou não concluída;✅
+#- Painel de atividades deve possuir campo de busca por atividades;❌
 
 #RNF:
 #- O sistema deve ser desenvolvido em Ruby on Rails;
